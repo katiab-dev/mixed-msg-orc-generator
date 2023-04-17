@@ -11,7 +11,8 @@ Note: Any feedback is welcomed as I am a beginer in coding. The project may evol
 ## Getting Started
 1. Clone the repository to your local machine
 
-~~~ git clone https://github.com/katiab-dev/Mixed-Message---Orc-message-Generator.git
+~~~ 
+git clone https://github.com/katiab-dev/Mixed-Message---Orc-message-Generator.git
 ~~~
 
 2. Open index.html in your browser
