@@ -4,7 +4,9 @@ This is a project from the Codecademy Back-End Engineer course. So far, I learnt
 
 This is a generator of orc sentences, with their translation in English. The "generate sentence" button randomly selects a sentence and its translation from a pull of sentences. 
 
-Sentences and translation are sourced from Wowpedia. 
+Sentences and translation are taken from Wowpedia. 
+
+Note: Any feedback is welcomed as I am a beginer in coding. The project may evolve with my progression in the courses
 
 ## Getting Started
 1. Clone the repository to your local machine
