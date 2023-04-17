@@ -1,0 +1,47 @@
+* {
+    padding: 20px 20px 20px 20px;
+}
+
+h1 {
+    text-align: center;
+    justify-content: center;
+    font-size: 60px;
+
+}
+    
+body {
+    display: grid;
+    justify-content: center;
+}
+
+div {
+    justify-content: center;
+}
+
+.OrcContainer {
+    background-color: rgba(167, 167, 167, 0.801);
+    display: flex;
+    flex-direction: row;
+}
+
+.HumanContainer {
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: rgb(198, 198, 250);
+    
+}
+
+.Button {
+    text-align: center;
+}
+
+p {
+    font-size: 60px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+a {
+    text-align: right;
+    font-size: 40px;
+}
